@@ -6,8 +6,6 @@ description: ' '
 tags:
   - SMART
 ---
-# Register a new visitor
-
 1. In any web-browser, have the visitor navigate to <http://pecdata.com/smart>
 2. Tap the “Sign Up” tab.
 3. Enter the visitors email address
