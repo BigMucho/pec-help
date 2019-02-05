@@ -13,7 +13,8 @@ export default class IndexPage extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Help Topics</h1>
+              <h1 className="has-text-weight-bold is-size-2">SMART Help Topics</h1>
+
             </div>
             {posts
               .map(({ node: post }) => (
@@ -23,20 +24,11 @@ export default class IndexPage extends React.Component {
                   key={post.id}
                 >
                   <p>
-                    <Link className="has-text-primary" to={post.fields.slug}>
+                    <Link className="has-text-primary is-size-4 has-text-weight-bold" to={post.fields.slug}>
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <small>{post.frontmatter.date}</small>
                   </p>
-                  <p>
-                    {post.excerpt}
-                    <br />
-                    <br />
-                    <Link className="button is-small" to={post.fields.slug}>
-                      Keep Reading →
-                    </Link>
-                  </p>
+
                 </div>
               ))}
           </div>
