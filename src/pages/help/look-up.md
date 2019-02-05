@@ -6,8 +6,6 @@ description: ' '
 tags:
   - SMART
 ---
-# Look up a visitors ID number.
-
 1. In any web-browser, have the visitor navigate to <http://peccard.com>
 2. Review the license agreement, tap “Agree”, enter the confirmation text, and tap “Verify Code”
 3. Tap the “Trainee Lookup” link
