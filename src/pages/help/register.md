@@ -8,7 +8,7 @@ tags:
 ---
 # Register a new visitor
 
-1. In any web-browser, have the visitor navigate to http://pecdata.com/smart
+1. In any web-browser, have the visitor navigate to <http://pecdata.com/smart>
 2. Tap the “Sign Up” tab.
 3. Enter the visitors email address
 4. The PEC SMART system will then send an email to the visitors email address. (check SPAM folder if it doesn’t appear)
