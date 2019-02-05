@@ -6,8 +6,6 @@ description: ' '
 tags:
   - SMART
 ---
-# Troubleshooting / Support
-
 ## Host device:
 
 For hardware, operating-system or internet connectivity issues contact \[client’s local IT support dept]
