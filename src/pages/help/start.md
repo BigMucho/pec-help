@@ -6,8 +6,6 @@ description: ' '
 tags:
   - SMART
 ---
-# Start the SMART application
-
 1. Power on the SMART device (laptop, tablet, etc)
 2. Open a web browser on the device (Google Chrome recommended)
 3. Navigate to http://pecdata.com/smart
